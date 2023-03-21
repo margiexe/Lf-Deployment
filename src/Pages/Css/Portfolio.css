@@ -1,0 +1,56 @@
+.portfolio-title
+{
+    margin-top: auto;
+    color: white;
+    position: relative;
+    text-align: center;
+    margin-top: 2em;
+ 
+}
+
+
+
+.folio-box{
+    margin-top: 100px;
+    border: solid;
+    color: black;
+    box-sizing: border-box;
+    background-color: white;
+    border-width: 5px;
+    border-color: rgb(255, 255, 255);
+}
+
+.portfolio-title h1{
+    color: black;
+    position: relative;
+    text-align: center;
+    align-items: center;
+}
+
+.portfolio-card{
+    justify-content: center;
+    align-items: center;
+    left: 0;
+    padding: 2em;
+    margin: 2em;
+    position: relative;
+    width: 20%;
+    height: 60%;
+    background-color: white; 
+}
+
+.portfolio-details  {
+    border-bottom: 1px solid white;
+    border-top: 1px solid white;
+    display: flex;
+    margin-left: 8em;
+    margin-right: 8em;
+    margin-bottom: 4em;
+    margin-top: 6em;
+    justify-content: space-between;
+
+}
+
+table{
+    border: 3px solid gray;
+}

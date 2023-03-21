@@ -1,0 +1,51 @@
+[
+    {
+        "StartupName" : "Small-Cap-Fund",
+        "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab placeat laborum voluptatibus? Dignissimos!",
+        "Domain" : "web3",
+        "valuation" : "100cr",
+        "risk" : "12%"
+    },
+    {
+        "StartupName" : "Mid-Cap-Fund",
+        "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab placeat laborum voluptatibus? Dignissimos!",
+        "Domain" : "web3",
+        "valuation" : "100cr",
+        "risk" : "12%"
+    },
+    {
+        "StartupName" : "Large-Cap-Fund",
+        "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab placeat laborum voluptatibus? Dignissimos!",
+        "Domain" : "web3",
+        "valuation" : "100cr",
+        "risk" : "12%"
+    },
+    {
+        "StartupName" : "Electric Startup Fund",
+        "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab placeat laborum voluptatibus? Dignissimos!",
+        "Domain" : "web3",
+        "valuation" : "100cr",
+        "risk" : "12%"
+    },
+    {
+        "StartupName" : "Green Startup Fund",
+        "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab placeat laborum voluptatibus? Dignissimos!",
+        "Domain" : "web3",
+        "valuation" : "100cr",
+        "risk" : "12%"
+    },
+    {
+        "StartupName" : "Samosa Singh",
+        "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab placeat laborum voluptatibus? Dignissimos!",
+        "Domain" : "Food Industry",
+        "valuation" : "1500cr",
+        "risk" : "15%"
+    },
+    {
+        "StartupName" : "Razorpay",
+        "Description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab placeat laborum voluptatibus? Dignissimos!",
+        "Domain" : "Online Payment",
+        "valuation" : "1000cr",
+        "risk" : "2%"
+    }
+]
